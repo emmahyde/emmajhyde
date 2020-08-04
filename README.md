@@ -16,5 +16,4 @@ I currently work at [Constant Contact](https://www.constantcontact.com/). In 202
   <img  src="http://pairprogramwith.me/badge.png"
         alt="Pair program with me!" /></a></div>
 
-I enjoy working on personal challenges, passion projects, and with others on an ultimate goal. I have greatly appreciated how much I've learned from the pair programming I've done thus far. Learning to work with each other effectively is extremely motivating and does not get enough credit in a fairly isolated industry.
- 
+I enjoy working on personal challenges, passion projects, and with others on an ultimate goal. I have greatly appreciated how much I've learned from the pair programming I've done thus far. Learning to work with each other effectively is extremely motivating and does not get enough credit in a fairly isolated industry. If you are interested in any of my work, or would like to work on something yourself, reach out to me!
