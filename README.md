@@ -7,5 +7,5 @@ I currently work at [Constant Contact](https://www.constantcontact.com/). In 202
 - Designing and implementing my own structures, from the top down
 - Pushing to remove things from our monolith that do not need to be there
 - Optimizing queries and working on a rake proxy between AWS and our public loadbalancer
-
+- Performing a massive data migration of all of our customer accounts from on-prem hardware to AWS offerings.
 
